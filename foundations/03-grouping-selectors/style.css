@@ -4,3 +4,7 @@
     background-color: hsl(0, 0%, 10%);
     color: #FFFFFF;
 }
+
+.yellow-background {
+    background-color: hsl(70, 100%, 70%);
+}
